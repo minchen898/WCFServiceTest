@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfService", "WcfService\WcfService.csproj", "{B523DAAF-380C-4629-9C90-1942CB60F24C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceTest", "ServiceTest\ServiceTest.csproj", "{6A39BD25-B15C-4F6D-AD30-59DC70EB586C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateFile", "CreateFile\CreateFile.csproj", "{D07CD4C6-5550-41F1-9DA1-4FE32F0B44A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateFileForm", "CreateFileForm\CreateFileForm.csproj", "{7570BA6A-F5CC-425D-B2FD-801131488FEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateFileService", "CreateFileService\CreateFileService.csproj", "{B0F46C7F-A81E-4D7D-B917-7010DD0343CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoWCF", "TwoWCF\TwoWCF.csproj", "{4F776B06-A683-4D35-A301-AF1B2C548A14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoWCFTest", "TwoWCFTest\TwoWCFTest.csproj", "{9C09F7D9-188B-44AB-80B7-9F85FA756236}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B523DAAF-380C-4629-9C90-1942CB60F24C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B523DAAF-380C-4629-9C90-1942CB60F24C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B523DAAF-380C-4629-9C90-1942CB60F24C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B523DAAF-380C-4629-9C90-1942CB60F24C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A39BD25-B15C-4F6D-AD30-59DC70EB586C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A39BD25-B15C-4F6D-AD30-59DC70EB586C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A39BD25-B15C-4F6D-AD30-59DC70EB586C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A39BD25-B15C-4F6D-AD30-59DC70EB586C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D07CD4C6-5550-41F1-9DA1-4FE32F0B44A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D07CD4C6-5550-41F1-9DA1-4FE32F0B44A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D07CD4C6-5550-41F1-9DA1-4FE32F0B44A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D07CD4C6-5550-41F1-9DA1-4FE32F0B44A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7570BA6A-F5CC-425D-B2FD-801131488FEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7570BA6A-F5CC-425D-B2FD-801131488FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7570BA6A-F5CC-425D-B2FD-801131488FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7570BA6A-F5CC-425D-B2FD-801131488FEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0F46C7F-A81E-4D7D-B917-7010DD0343CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0F46C7F-A81E-4D7D-B917-7010DD0343CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0F46C7F-A81E-4D7D-B917-7010DD0343CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0F46C7F-A81E-4D7D-B917-7010DD0343CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F776B06-A683-4D35-A301-AF1B2C548A14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F776B06-A683-4D35-A301-AF1B2C548A14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F776B06-A683-4D35-A301-AF1B2C548A14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F776B06-A683-4D35-A301-AF1B2C548A14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C09F7D9-188B-44AB-80B7-9F85FA756236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C09F7D9-188B-44AB-80B7-9F85FA756236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C09F7D9-188B-44AB-80B7-9F85FA756236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C09F7D9-188B-44AB-80B7-9F85FA756236}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
